@@ -1,2 +1,2 @@
 # CAPACITOR-PLUGINS
-My own colection of Capacitor plugins for hibrid applications
+My own collection of Capacitor plugins for hibrid applications
